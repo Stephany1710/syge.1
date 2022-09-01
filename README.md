@@ -1,23 +1,14 @@
-            #INGRESANDO AL SISTEMA
+INGRESANDO AL SISTEMA
 
+![cargandoNEGRO](https://user-images.githubusercontent.com/112539979/187846541-14e2db02-b5c2-4d37-ada1-7a61dbdfe39c.gif)
 
-![binario](https://user-images.githubusercontent.com/112539979/187834905-fa7f88bf-560b-4a10-85ab-86cdb1d0a3fc.jpg)
+ DESCARGANDO DATOS DE USUARIO...         
+ 
+![giphy](https://user-images.githubusercontent.com/112539979/187846618-acab9e99-cd6d-4b41-aee4-b04de464ed7d.gif)
+  
+  ![virus](https://user-images.githubusercontent.com/112539979/187846991-0657032d-9c97-40bc-8021-971b0d38f427.gif)
 
-
-
-                    #DESCARGANDO DATOS DE USUARIO...
-
-
-
-
-
-![detectado](https://user-images.githubusercontent.com/112539979/187839505-98326c99-8006-4c64-a886-2a6110a7253a.jpg)
-
-
-
-
-
-
-
-
+  
+  
+    
 
