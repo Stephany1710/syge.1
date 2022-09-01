@@ -1,11 +1,11 @@
-                        INGRESANDO AL SISTEMA
+            #INGRESANDO AL SISTEMA
 
 
 ![binario](https://user-images.githubusercontent.com/112539979/187834905-fa7f88bf-560b-4a10-85ab-86cdb1d0a3fc.jpg)
 
 
 
-                    ** DESCARGANDO DATOS DE USUARIO...**
+                    #DESCARGANDO DATOS DE USUARIO...
 
 
 
