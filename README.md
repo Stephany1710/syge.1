@@ -1,19 +1,20 @@
-#  `rgb(255,0,0) INGRESANDO AL SISTEMA`
-#  
+                        INGRESANDO AL SISTEMA
+
 
 ![binario](https://user-images.githubusercontent.com/112539979/187834905-fa7f88bf-560b-4a10-85ab-86cdb1d0a3fc.jpg)
 
 
 
-                    ###`rgb(255,0,0)  DESCARGANDO DATOS DE USUARIO...`
+                    ** DESCARGANDO DATOS DE USUARIO...**
 
 
 
 
 
+![detectado](https://user-images.githubusercontent.com/112539979/187839505-98326c99-8006-4c64-a886-2a6110a7253a.jpg)
 
 
-![msj](https://user-images.githubusercontent.com/112539979/187835693-41d3fed5-28b6-4deb-9c3b-9fa53b3c69ff.png)
+
 
 
 
