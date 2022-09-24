@@ -14,8 +14,8 @@
         ctx.beginPath();
         ctx.save();
 
-        ctx.strokeStyle = "blue";
-        ctx.fillStyle = "green";
+        ctx.strokeStyle = "pink";
+        ctx.fillStyle = "blue";
 
         ctx.translate(startX, startY);
         ctx.rotate(angle * Math.PI/180);
@@ -24,15 +24,15 @@
         ctx.stroke();
 
         ctx.shadowBlur = 15;
-        ctx.shadowColor = "rgba(100,0,25,2)";
+        ctx.shadowColor = "rgba(1,10,20,2)";
 
         if(len < 10) {
             ctx.restore();
             return;
         }
 
-        draw(0, -len, len*0.8, angle-25, branchWidth*0.8);
-        draw(0, -len, len*0.8, angle+20, branchWidth*0.8);
+        draw(0, -len, len*0.8, angle-25, branchWidth*1);
+        draw(0, -len, len*0.8, angle+50, branchWidth*1);
 
         ctx.restore();
     }
