@@ -1,0 +1,43 @@
+@startuml
+
+class WifiSignal {
+    +bssid: string
+    +ssid: string
+    +level: int
+    +latitude: double
+    +longitude: double
+}
+
+class User {
+    +id: int
+    +username: string
+    +password: string
+    +email: string
+    +location: string
+    +favorites: List<WifiSignal>
+    +addFavorite(wifiSignal: WifiSignal): void
+    +removeFavorite(wifiSignal: WifiSignal): void
+}
+
+class Map {
+    +getWifiSignals(): List<WifiSignal>
+    +setLocation(latitude: double, longitude: double): void
+}
+
+class WifiFinderApp {
+    -map: Map
+    -currentUser: User
+    +login(username: string, password: string): bool
+    +logout(): void
+    +getCurrentUser(): User
+    +getWifiSignals(): List<WifiSignal>
+    +addFavorite(wifiSignal: WifiSignal): void
+    +removeFavorite(wifiSignal: WifiSignal): void
+}
+
+WifiSignal --> User
+User --> Map
+WifiFinderApp --> User
+WifiFinderApp --> Map
+
+@enduml
